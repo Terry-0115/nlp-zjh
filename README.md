@@ -53,4 +53,4 @@ print(result)
 
 我可以在IDE上使用我建立的虚拟环境
 
-<img src="https://raw.githubusercontent.com/Terry-0115/nlp-zjh/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260325154105_5900_10.png" width="800" alt="环境搭建截图一">
+##<img src="https://raw.githubusercontent.com/Terry-0115/nlp-zjh/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260325154105_5900_10.png" width="800" alt="环境搭建截图一">
