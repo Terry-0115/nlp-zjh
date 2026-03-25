@@ -1,6 +1,6 @@
 # 姜太显的自我介绍
 
-< img src="https://c-ssl.duitang.com/uploads/blog/202208/13/20220813204332_a3b7b.jpg" width="200" alt="姜太显形象">
+< img src="https://superstarsbio.com/wp-content/uploads/2020/06/Taehyun-hihg.jpg" width="200" alt="姜太显形象">
 
 **大家好，我是姜太显**，我的身份是*TXT组合成员、歌手*。以下是我的自我介绍：
 
