@@ -1,6 +1,6 @@
 # 姜太显的自我介绍
 
-< img src="https://github.com/Terry-0115/nlp-zjh/blob/main/Weverse_teahyun.jpg" width="200" alt="姜太显形象">
+<img src="https://raw.githubusercontent.com/Terry-0115/nlp-zjh/blob/main/Weverse_teahyun.jpg" width="200" alt="姜太显形象">
 
 **大家好，我是姜太显**，我的身份是*TXT组合成员、歌手*。以下是我的自我介绍：
 
