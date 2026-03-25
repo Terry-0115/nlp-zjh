@@ -49,7 +49,7 @@ def music_create():
 result = music_create()
 print(result)
 
----
+```
 
 其中执行`run dev_skills_env.py`可输出结果。
 
