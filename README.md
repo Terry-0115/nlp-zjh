@@ -1,2 +1,0 @@
-# nlp-zjh
-Practice Project
