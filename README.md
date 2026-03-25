@@ -1,6 +1,6 @@
 # 姜太显的自我介绍
 
-<img src="https://raw.githubusercontent.com/Terry-0115/nlp-zjh/blob/main/Weverse_teahyun.jpg" width="200" alt="姜太显形象">
+<img src="https://raw.githubusercontent.com/Terry-0115/nlp-zjh/main/Weverse_teahyun.jpg" width="200" alt="姜太显形象">
 
 **大家好，我是姜太显**，我的身份是*TXT组合成员、歌手*。以下是我的自我介绍：
 
@@ -18,7 +18,7 @@
 3. ~~崔杋圭~~
 
 ### 重要坐标
-- **住址**：[Hybe大楼](https://github.com/Terry-0115/nlp-zjh/blob/main/hybe%E5%A4%A7%E6%A5%BC.jpg)
+- **住址**：[Hybe大楼](https://github.com/Terry-0115/nlp-zjh/main/hybe%E5%A4%A7%E6%A5%BC.jpg)
 
 ### 日常作息表
 | 时间  | 活动     |
@@ -53,4 +53,4 @@ print(result)
 
 我可以在IDE上使用我建立的虚拟环境
 “01 环境搭建的截图一”
-<img src="https://raw.githubusercontent.com/Terry-0115/nlp-zjh/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260325154105_5900_10.png" width="800" alt="环境搭建截图一">
+<img src="https://raw.githubusercontent.com/Terry-0115/nlp-zjh/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260325154105_5900_10.png" width="800" alt="环境搭建截图一">
